@@ -1,0 +1,4 @@
+Win+MinGW:
+
+C:\MinGW\msys\1.0\bin\sh.exe ./configure CC=C:/MinGW/bin/gcc.exe CXX=C:/MinGW/bin/g++.exe CFLAGS="-g3 -gdwarf-2" \
+    CXXFLAGS="-g3 -gdwarf-2" --prefix=C:/ogw/ocv3
